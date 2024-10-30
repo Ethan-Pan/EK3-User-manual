@@ -1,2 +1,2 @@
-# EK3-User-manual
-EK3 user manual
+# EK3用户手册
+这里是EK3用户操作手册，包含EK3使用方法，应用程序使用方法，以及使用过程中的注意事项。
