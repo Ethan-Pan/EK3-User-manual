@@ -12,7 +12,7 @@ EKHome-application-windows
 EKHome-application-macOS
 
 ### EK Home使用方法
-- 连接设备
+- 连接设备 
  
 配置EK3时，需要将设备与电脑通过Type-c进行连接，然后点击EK Home中的“连接”按钮。连接成功之后，“连接”按钮会变为“已连接”且不可选中。首次配置EK3时需要点击“连接”按钮，后续使用EK Home将会自动连接。
 【此处加上对应EK Home的截图】
