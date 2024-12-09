@@ -7,7 +7,7 @@ EK3是一个桌面级多媒体控制器项目，在具有科技感外观的同�
 ### 初次使用 🚀🚀🚀
 初次使用需要下载**EK Home**进行配置，**EK Home**是专门为EK3设计开发的桌面应用程序，可以对EK3进行高度自定义配置，目前已支持windows系统和macOS，Linux适配正在开发中，对应版本的下载地址：
 
-[EK-Home-application-windows](https://github.com/Ethan-Pan/EK3-User-manual/releases/download/EK-Home/EK-Home-release-1.1.exe)
+[EK-Home-application-windows](https://github.com/Ethan-Pan/EK3-User-manual/releases/tag/EK-Home)
 
 EKHome-application-macOS(暂未上线)
 
