@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/87039773-d693-4869-958c-0e89ec9a7d04#pic_center)
+![image](https://github.com/user-attachments/assets/d9913a87-95a7-4cde-aed0-7687b4230d0f)
+
 
 ## EK3用户手册 ⭐
 这里是EK3用户操作手册，包含EK3使用方法，应用程序使用方法，以及使用过程中的注意事项。
