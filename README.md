@@ -10,7 +10,7 @@
 ### 初次使用 🚀🚀🚀
 初次使用需要下载**EK Home**进行配置，**EK Home**是专门为EK3设计开发的桌面应用程序，可以对EK3进行高度自定义配置，目前已支持windows系统和macOS，Linux适配正在开发中，对应版本的下载地址：
 
-[EK-Home-application-windows](https://github.com/Ethan-Pan/EK3-User-manual/releases/tag/EK-Home-V1.2)
+[EK-Home-application-windows](https://github.com/Ethan-Pan/EK3-User-manual/releases/tag/EK-Home-V1.3)
 
 EKHome-application-macOS(暂未上线)
 
@@ -63,7 +63,7 @@ EK3侧边配备了LED灯条，可以显示多种模式效果。您可以在EK3�
 
 - 添加指纹
   
-点击‘+’号即可开始录制指纹信息，请您在EK3指纹模组开启蓝光时，按压手指4-6次，直到蓝光熄灭，EK Home提示录制成功之后，命名您的指纹信息，完成指纹录制。
+点击‘+’号即可开始录制指纹信息，请您在EK3指纹模组开启蓝光时，请在15s内，按压抬起手指4-6次，直到蓝光熄灭，闪烁绿光，EK Home提示录制成功之后，命名您的指纹信息，完成指纹录制。**注意：有部分情况，指纹模组只闪烁绿色，但是EK Home没有提示录制成功，请不要担心，您已经录取成功，只是EK Home会偶发一些bug（再解了再解了）**。
 
 ![image](https://github.com/user-attachments/assets/2f83b112-23d0-4296-9086-f834a962c97d)
 
