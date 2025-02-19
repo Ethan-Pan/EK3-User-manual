@@ -12,7 +12,7 @@
 
 [EK-Home-application-windows](https://github.com/Ethan-Pan/EK3-User-manual/releases/tag/EK-Home-V1.3)
 
-EKHome-application-macOS(暂未上线)
+[EKHome-application-macOS](https://github.com/Ethan-Pan/EK3-User-manual/releases/tag/EK-Home-Mac-V1.0)
 
 ### EK Home使用方法
 - 连接设备 
