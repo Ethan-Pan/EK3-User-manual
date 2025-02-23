@@ -14,6 +14,19 @@
 
 [EKHome-application-macOS](https://github.com/Ethan-Pan/EK3-User-manual/releases/tag/EK-Home-Mac-V1.0)
 
+#### 关于MacOS端使用提示
+下载之后是zip格式文件，解压之后双击打开如果出现下面的警示信息：
+
+<img width="296" alt="image" src="https://github.com/user-attachments/assets/8bec9ef9-a8cf-4a26-9f5d-1f7d70ac14d2" />
+
+
+请按照如下步骤操作：
+- 点击左上角苹果菜单 → 系统设置
+- 选择"隐私与安全性"
+- 在右侧找到"安全性"部分
+- 您会看到关于"EKHome"的提示，点击"仍要打开"按钮
+- 输入管理员密码确认
+
 ### EK Home使用方法
 - 连接设备 
  
